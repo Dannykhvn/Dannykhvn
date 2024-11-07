@@ -5,16 +5,14 @@ Hi there! I'm Daniel Khavin – a passionate **Computer Information Technology**
 ---
 
 ## 🧰 Tech Stack & Skills
-I thrive at the intersection of technology and practicality. Here’s a quick look at my skill set:
 
-markdown
-Copy code
-| 🌐 **Frontend**           | 🖧 **Backend & Databases**                  | 🛠️ **Tools & Frameworks**                     |
+With a practical approach to technology, my skill set covers a diverse range of tools and languages essential for modern development:
+
+| 🌐 **Frontend**           | 🖧 **Backend & Databases**                  | 🛠️ **Developer Tools**                        |
 |---------------------------|---------------------------------------------|------------------------------------------------|
-| HTML, CSS, JavaScript     | Python, Node.js, PHP, SQL                   | Git, GitHub, GitLab, Jenkins, Kafka            |
-| React.js, Bootstrap       | MySQL, NoSQL, SQLite                        | Docker, Kubernetes, Terraform, Flask           |
+| HTML, CSS, JavaScript     | Python, Node.js, PHP, Flask                 | Git, GitHub, GitLab, Jenkins, Kafka            |
+| React.js, Bootstrap       | MySQL, NoSQL, SQLite, DynamoDB              | Docker, Kubernetes, Terraform, Flask           |
 |                           |                                             | AWS, GCP, Azure, Nginx, Apache                 |
-
 
 💡 **Interests**: Game Design 🕹️ | Cybersecurity 🔒 | Full-Stack Development 🌐
 
@@ -22,7 +20,7 @@ Copy code
 
 ## 🧱 Featured Projects
 
-Here’s a selection of my most impactful projects, designed to solve real-world problems with efficiency and creativity:
+Here’s a selection of projects where I’ve applied creativity and technical skills to build functional, user-centered solutions:
 
 ### 1. 📂 **GeoWeatherHub**
    - **Description**: A web app that lets users search for weather information worldwide.
