@@ -1,6 +1,6 @@
 # 🌱 Welcome to Daniel Khavin's GitHub Portfolio 🌿
 
-Hi there! I'm Daniel Khavin – a passionate **Computer Information Technology** student at BCIT 💻, combining hands-on experience with a strong foundation in web development, software development & database design. I’m driven to develop meaningful, creative and secure tech solutions that address real-world challenges, inspire progress, and create a lasting, positive impact in our increasingly digital world. Explore my projects and let’s connect! 👋
+Hi there! I'm Daniel Khavin – a passionate **Computer Information Technology** student at BCIT 💻, combining hands-on experience with a strong foundation in web development, software development, cloud design & database design. I’m driven to develop meaningful, creative and secure tech solutions that address real-world challenges, inspire progress, and create a lasting, positive impact in our increasingly digital world. Explore my projects and let’s connect! 👋
 
 ---
 
