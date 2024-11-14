@@ -53,7 +53,7 @@ Here’s a selection of projects where I’ve applied creativity and technical s
 ---
 
 ## 🌍 Let’s Connect!
-I’m always excited to meet like-minded individuals in tech! Reach out if you’d like to chat, collaborate, or just say hi.
+I’m always excited to meet like-minded individuals in tech! Feel free to Reach out if you’d like to collaborate.
 
 📧 **Email**: daniel.khvn@gmail.com  
 💼 **LinkedIn**: www.linkedin.com/in/daniel-khavin 
@@ -62,5 +62,5 @@ I’m always excited to meet like-minded individuals in tech! Reach out if you�
 
 > *"In code, we write in the language of possibility, where each line, translates vision into a lasting impact."*⏳
 
-Thanks for stopping by! 🌿 Feel free to explore my projects and reach out – happy coding! 🚀
+Thanks for stopping by! – happy coding! 🚀
 
