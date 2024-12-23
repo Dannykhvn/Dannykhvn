@@ -11,7 +11,7 @@ With a practical approach to technology, my skill set covers a diverse range of 
 | 🌐 **Frontend**           | 🖧 **Backend & Databases**                  | 🛠️ **Developer Tools**                        |
 |---------------------------|---------------------------------------------|------------------------------------------------|
 | HTML, CSS, JavaScript     | Python, Node.js, PHP, Flask                 | Git, GitHub, GitLab, Jenkins, Kafka            |
-| React.js, Bootstrap       | MySQL, NoSQL, SQLite, DynamoDB              | Docker, Kubernetes, Terraform, Flask           |
+| React.js, Bootstrap       | MySQL, NoSQL, SQLite, DynamoDB              | Docker, Kubernetes, Terraform           |
 |                           |                                             | AWS, GCP, Azure, Nginx, Apache                 |
 
 💡 **Interests**: Game Design 🕹️ | Cybersecurity 🔒 | Full-Stack Development 🌐
