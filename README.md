@@ -1,6 +1,6 @@
 # 🌱 Welcome to Daniel Khavin's GitHub Portfolio 🌿
 
-Hi there! I'm Daniel Khavin – a passionate **Computer Information Technology** student at BCIT 💻, combining hands-on experience with a strong foundation in web development, software development, cloud design & database design. I’m driven to develop meaningful, creative and secure tech solutions that address real-world challenges, inspire progress, and create a lasting, positive impact in our increasingly digital world. Explore my projects and let’s connect! 👋
+Hi there! I'm Daniel Khavin – a passionate **Computer Information Technology** graduate from BCIT 💻 and the founder of **Alphirion**, a software and web development company. I combine hands-on experience with a strong foundation in web development, software development, cloud infrastructure, and database design. I’m driven to develop meaningful, creative, and secure tech solutions that address real-world challenges, inspire progress, and create a lasting, positive impact in our increasingly digital world. Explore my projects and let’s connect! 👋
 
 ---
 
@@ -10,9 +10,9 @@ With a practical approach to technology, my skill set covers a diverse range of 
 
 | 🌐 **Frontend** | 🖧 **Backend** | 🗄️ **Databases** | 🛠️ **Developer Tools** |
 |:---|:---|:---|:---|
-| HTML, CSS, JavaScript | Python, Node.js, PHP, Flask, Express.js | MySQL, NoSQL, SQLite, MongoDB, DynamoDB | Git, GitHub, GitLab, Jenkins |
-| React.js, Tailwind, Bootstrap | Kafka, OpenAPI (Swagger/YML) | Microsoft SQL Server, Firebase | Docker, Kubernetes, Terraform |
-| Vue.js (basic knowledge) | REST API Development | Visio (for DB design/diagrams) | AWS, GCP, Azure, Nginx, Apache |
+| HTML, CSS, JavaScript | Python, Node.js, PHP | MySQL, NoSQL, SQLite | Git, GitHub, GitLab, Jenkins |
+| React.js, Tailwind, Bootstrap | Kafka, OpenAPI (Swagger/YML) | MongoDB, DynamoDB, Firebase | Docker, Kubernetes, Terraform |
+| Vue.js, Next.js, TypeScript | Laravel, Flask, Express.js | Visio, Microsoft SQL Server | AWS, GCP, Azure, Nginx, Apache |
 
 💡 **Interests**: Game Design 🕹️ | Cybersecurity 🔒 | Full-Stack Development 🌐
 
@@ -57,6 +57,7 @@ I’m always excited to meet like-minded individuals in tech! Feel free to Reach
 
 📧 **Email**: daniel.khvn@gmail.com  
 💼 **LinkedIn**: www.linkedin.com/in/daniel-khavin 
+🏢 **Alphirion**: www.linkedin.com/company/alphirion
 
 ---
 
