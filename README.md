@@ -8,11 +8,11 @@ Hi there! I'm Daniel Khavin – a passionate **Computer Information Technology**
 
 With a practical approach to technology, my skill set covers a diverse range of tools and languages essential for modern development:
 
-| 🌐 **Frontend**           | 🖧 **Backend & Databases**                  | 🛠️ **Developer Tools**                        |
-|---------------------------|---------------------------------------------|------------------------------------------------|
-| HTML, CSS, JavaScript     | Python, Node.js, PHP, Flask                 | Git, GitHub, GitLab, Jenkins, Kafka            |
-| React.js, Bootstrap       | MySQL, NoSQL, SQLite, DynamoDB              | Docker, Kubernetes, Terraform           |
-|                           |                                             | AWS, GCP, Azure, Nginx, Apache                 |
+| 🌐 **Frontend** | 🖧 **Backend** | 🗄️ **Databases** | 🛠️ **Developer Tools** |
+|:---|:---|:---|:---|
+| HTML, CSS, JavaScript | Python, Node.js, PHP, Flask, Express.js | MySQL, NoSQL, SQLite, MongoDB, DynamoDB | Git, GitHub, GitLab, Jenkins |
+| React.js, Tailwind, Bootstrap | Kafka, OpenAPI (Swagger/YML) | Microsoft SQL Server, Firebase | Docker, Kubernetes, Terraform |
+| Vue.js (basic knowledge) | REST API Development | Visio (for DB design/diagrams) | AWS, GCP, Azure, Nginx, Apache |
 
 💡 **Interests**: Game Design 🕹️ | Cybersecurity 🔒 | Full-Stack Development 🌐
 
